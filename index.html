@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Newsletter Pro - AI 内容助手</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif; background: #f5f5f5; }
+    .container { max-width: 960px; margin: 0 auto; padding: 40px 20px; }
+    header { text-align: center; margin-bottom: 40px; }
+    h1 { font-size: 2.5em; color: #1a1a1a; margin-bottom: 10px; }
+    .subtitle { color: #666; font-size: 1.2em; }
+    .pricing { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; }
+    .plan { background: white; border-radius: 12px; padding: 30px; box-shadow: 0 2px 12px rgba(0,0,0,0.08); text-align: center; transition: transform 0.2s; }
+    .plan:hover { transform: translateY(-4px); }
+    .plan.popular { border: 2px solid #007aff; position: relative; }
+    .badge { background: #007aff; color: white; padding: 4px 12px; border-radius: 20px; font-size: 0.8em; position: absolute; top: -12px; left: 50%; transform: translateX(-50%); }
+    .plan-name { font-size: 1.4em; font-weight: 600; margin-bottom: 15px; }
+    .price { font-size: 2.5em; font-weight: 700; color: #007aff; margin-bottom: 20px; }
+    .price span { font-size: 0.4em; color: #999; font-weight: 400; }
+    .features { list-style: none; text-align: left; margin-bottom: 25px; }
+    .features li { padding: 8px 0; border-bottom: 1px solid #f0f0f0; color: #333; }
+    .features li:before { content: "✓ "; color: #007aff; margin-right: 8px; }
+    .btn { display: inline-block; background: #007aff; color: white; padding: 12px 36px; border-radius: 8px; text-decoration: none; font-weight: 600; transition: background 0.2s; }
+    .btn:hover { background: #0066d6; }
+    .contact { text-align: center; margin-top: 40px; padding: 30px; background: white; border-radius: 12px; }
+    .contact h2 { margin-bottom: 15px; }
+    .contact p { color: #666; margin-bottom: 10px; }
+    .wechat { color: #07c160; font-weight: 600; font-size: 1.2em; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Newsletter Pro</h1>
+      <p class="subtitle">AI 内容助手 · 让你轻松做到日更</p>
+    </header>
+    
+    <div class="pricing">
+      <div class="plan">
+        <div class="plan-name">🌱 入门版</div>
+        <div class="price">¥199<span>/月</span></div>
+        <ul class="features">
+          <li>每日 Newsletter 自动生成</li>
+          <li>公众号草稿发布</li>
+          <li>小红书文案 + 配图</li>
+          <li>5 个平台账号</li>
+        </ul>
+        <a href="#contact" class="btn">立即购买</a>
+      </div>
+      
+      <div class="plan popular">
+        <span class="badge">最受欢迎</span>
+        <div class="plan-name">🚀 专业版</div>
+        <div class="price">¥499<span>/月</span></div>
+        <ul class="features">
+          <li>入门版全部功能</li>
+          <li>多平台发布</li>
+          <li>AI 爆款标题生成</li>
+          <li>优先技术支持</li>
+          <li>每月 1 次策略咨询</li>
+        </ul>
+        <a href="#contact" class="btn">立即购买</a>
+      </div>
+      
+      <div class="plan">
+        <div class="plan-name">💎 团队版</div>
+        <div class="price">¥999<span>/月</span></div>
+        <ul class="features">
+          <li>专业版全部功能</li>
+          <li>无限平台账号</li>
+          <li>团队协作（3 人）</li>
+          <li>专属客服</li>
+          <li>竞品监控报告</li>
+        </ul>
+        <a href="#contact" class="btn">立即购买</a>
+      </div>
+    </div>
+    
+    <div class="contact" id="contact">
+      <h2>联系我们</h2>
+      <p>选择套餐后，扫码联系客服购买</p>
+      <p class="wechat">微信号：turing_newsletter</p>
+      <p style="margin-top: 15px;"><img src="images/wechat-pay.jpg" alt="微信支付" style="width: 200px; border: 1px solid #eee; border-radius: 8px;"></p>
+      <p style="margin-top: 20px; color: #999; font-size: 0.9em;">提供 3 天免费试用，7 天无理由退款</p>
+    </div>
+  </div>
+</body>
+</html>
