@@ -1,35 +1,43 @@
 📈 GitHub 今日热门精选
 
-═══════════════════════════════════
-🗓️ 程序员必看，这些项目今天最火
+════════════════════════════════════════
+程序员必看！GitHub今天最火的项目，第6个太绝了
+════════════════════════════════════════
 
-═══════════════════════════════════
+▍ 程序员必藏 ⬇️
 
-🔴 1. codecrafters-io/build-your-own-x
-   ⭐484.0k 📦 Markdown
-   🔥 Build Your Own X，程序员圈口碑项目，值得一看
+🔴 1. Awesome Openclaw Skills
+   ⭐42.6k 📦
+   💡 OpenClaw技能库：5400+ skills，让你的Agent更强大
+   ✓ 适合：使用OpenClaw的用户、想扩展AI助手能力的人
 
-🔴 2. sindresorhus/awesome
-   ⭐449.5k 📦 Markdown
-   🔥 Awesome，程序员圈口碑项目，值得一看
+🔴 2. Rust
+   ⭐111.5k 🦀
+   💡 让C/C++开发者既能保持性能，又能避免内存安全问题
+   ✓ 场景：重写系统工具 / WebAssembly开发 / 嵌入式开发...
 
-🔴 3. freeCodeCamp/freeCodeCamp
-   ⭐438.9k 🔷 TypeScript
-   🔥 Freecodecamp，程序员圈口碑项目，值得一看
+🔴 3. Public Apis
+   ⭐416.8k 🐍
+   💡 做小项目缺接口？这个清单救过你
+   ✓ 适合：独立开发者、正在做Side Project的人、想快速验证想...
 
-🔴 4. public-apis/public-apis
-   ⭐416.8k 🐍 Python
-   🔌 程序员必备！收录5000+免费API，做项目再也不用造轮子
+🔴 4. Free Programming Books
+   ⭐384.6k 🐍
+   💡 计算机经典书籍的免费版本汇总
+   ✓ 场景：想读某本经典但不想花钱 / 找某主题的最佳入门书籍 / 在地...
 
-🔴 5. EbookFoundation/free-programming-books
-   ⭐384.6k 🐍 Python
-   📚 程序员必藏！全网最全的免费编程书籍清单
+🔴 5. Rustdesk
+   ⭐110.1k 🦀
+   💡 开源版TeamViewer，可以自己搭建的远程桌面
+   ✓ 适合：需要远程控制的技术人员、注重隐私的用户、IT运维人员
 
-🔴 6. kamranahmedse/developer-roadmap
-   ⭐351.8k 🔷 TypeScript
-   🔥 Developer Roadmap，程序员圈口碑项目，值得一看
+🔴 6. Gstack
+   ⭐52.8k 🔷
+   💡 用好Claude Code的15个最佳实践，来自YC CEO Garry Tan
+   ✓ 场景：刚装Claude Code不知道从哪开始 / 想提升AI编程...
 
-───────────────────────────────────
-#AI工具 #效率神器 #GitHub #程序员
+────────────────────────────────────────
+
+#开源 #独立开发者 #效率神器 #程序员 #GitHub
 
 👉 关注我，每天发现优质开源项目！
