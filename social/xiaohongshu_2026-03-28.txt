@@ -1,0 +1,35 @@
+📈 GitHub 今日热门精选
+
+═══════════════════════════════════
+🗓️ 程序员必看，这些项目今天最火
+
+═══════════════════════════════════
+
+🔴 1. codecrafters-io/build-your-own-x
+   ⭐484.0k 📦 Markdown
+   🔥 Build Your Own X，程序员圈口碑项目，值得一看
+
+🔴 2. sindresorhus/awesome
+   ⭐449.5k 📦 Markdown
+   🔥 Awesome，程序员圈口碑项目，值得一看
+
+🔴 3. freeCodeCamp/freeCodeCamp
+   ⭐438.9k 🔷 TypeScript
+   🔥 Freecodecamp，程序员圈口碑项目，值得一看
+
+🔴 4. public-apis/public-apis
+   ⭐416.8k 🐍 Python
+   🔌 程序员必备！收录5000+免费API，做项目再也不用造轮子
+
+🔴 5. EbookFoundation/free-programming-books
+   ⭐384.6k 🐍 Python
+   📚 程序员必藏！全网最全的免费编程书籍清单
+
+🔴 6. kamranahmedse/developer-roadmap
+   ⭐351.8k 🔷 TypeScript
+   🔥 Developer Roadmap，程序员圈口碑项目，值得一看
+
+───────────────────────────────────
+#AI工具 #效率神器 #GitHub #程序员
+
+👉 关注我，每天发现优质开源项目！

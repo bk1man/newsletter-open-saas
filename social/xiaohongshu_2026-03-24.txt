@@ -1,0 +1,46 @@
+📈 GitHub 今日热门 TOP 15
+
+═══════════════════════════════════
+🗓️ 2026-03-24 程序员技术资讯
+
+═══════════════════════════════════
+
+🔴 1. codecrafters-io/build-your-own-x
+   ⭐482.8k 📦 Markdown
+   通过造轮子学编程 — 从零构建 Redis、Docker、Web服务器，动手理解核心技术的最佳实践。...
+
+🔴 2. sindresorhus/awesome
+   ⭐448.4k 📦 Unknown
+   最大的 awesome 清单聚合 — 收录各编程领域的优质资源，是寻找工具和学习路径的一站式入口。...
+
+🔴 3. freeCodeCamp/freeCodeCamp
+   ⭐438.8k 🔷 TypeScript
+   免费编程学习平台 — 涵盖前端、后端、数据科学全链路，零基础入门首选的开源学习社区。...
+
+⚪ 4. public-apis/public-apis
+   ⭐415.3k 🐍 Python
+   免费 API 集合 — 收录数千个公共 API，分类清晰，是快速原型开发和小项目的宝藏资源库。...
+
+⚪ 5. EbookFoundation/free-programming-books
+   ⭐384.5k 🐍 Python
+   免费编程书籍聚合 — 整理全球优质技术书籍，涵盖数十种语言，自学 CS 的利器。...
+
+⚪ 6. kamranahmedse/developer-roadmap
+   ⭐351.6k 🔷 TypeScript
+   开发者成长路线图 — 前端/后端/运维/DevOps 等方向的学习路径，职业规划必备指南。...
+
+⚪ 7. donnemartin/system-design-primer
+   ⭐340.0k 🐍 Python
+   系统设计入门 — Amazon/Facebook 工程师整理的大规模系统设计知识，面试和架构学习必看。...
+
+⚪ 8. jwasham/coding-interview-university
+   ⭐338.2k 📦 Unknown
+   软件工程师学习计划 — 作者从零基础到入职 Amazon 的完整路径，算法和系统设计全覆盖。...
+
+⚪ 9. openclaw/openclaw
+   ⭐332.8k 🔷 TypeScript
+   你的私人 AI 助手 — 跨平台跨系统的开源 Agent 实现，一行命令跑起来 😄...
+
+───────────────────────────────────
+👉 关注我，每天发现优质开源项目！
+#程序员 #GitHub #开源 #技术资讯 #编程

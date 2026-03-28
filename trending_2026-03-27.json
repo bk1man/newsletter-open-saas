@@ -1,0 +1,126 @@
+{
+  "language": "all",
+  "fetched_at": "2026-03-27T09:00:03.488217",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "codecrafters-io/build-your-own-x",
+      "stars": 483728,
+      "language": "Markdown",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "url": "https://github.com/codecrafters-io/build-your-own-x"
+    },
+    {
+      "rank": 2,
+      "name": "sindresorhus/awesome",
+      "stars": 449163,
+      "language": "Unknown",
+      "description": "😎 Awesome lists about all kinds of interesting topics",
+      "url": "https://github.com/sindresorhus/awesome"
+    },
+    {
+      "rank": 3,
+      "name": "freeCodeCamp/freeCodeCamp",
+      "stars": 438872,
+      "language": "TypeScript",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+    },
+    {
+      "rank": 4,
+      "name": "public-apis/public-apis",
+      "stars": 416487,
+      "language": "Python",
+      "description": "A collective list of free APIs",
+      "url": "https://github.com/public-apis/public-apis"
+    },
+    {
+      "rank": 5,
+      "name": "EbookFoundation/free-programming-books",
+      "stars": 384623,
+      "language": "Python",
+      "description": ":books: Freely available programming books",
+      "url": "https://github.com/EbookFoundation/free-programming-books"
+    },
+    {
+      "rank": 6,
+      "name": "kamranahmedse/developer-roadmap",
+      "stars": 351733,
+      "language": "TypeScript",
+      "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "url": "https://github.com/kamranahmedse/developer-roadmap"
+    },
+    {
+      "rank": 7,
+      "name": "donnemartin/system-design-primer",
+      "stars": 340320,
+      "language": "Python",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+      "url": "https://github.com/donnemartin/system-design-primer"
+    },
+    {
+      "rank": 8,
+      "name": "jwasham/coding-interview-university",
+      "stars": 338274,
+      "language": "Unknown",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "url": "https://github.com/jwasham/coding-interview-university"
+    },
+    {
+      "rank": 9,
+      "name": "openclaw/openclaw",
+      "stars": 337377,
+      "language": "TypeScript",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "rank": 10,
+      "name": "vinta/awesome-python",
+      "stars": 289183,
+      "language": "Python",
+      "description": "An opinionated list of Python frameworks, libraries, tools, and resources.",
+      "url": "https://github.com/vinta/awesome-python"
+    },
+    {
+      "rank": 11,
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "stars": 282307,
+      "language": "Unknown",
+      "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+    },
+    {
+      "rank": 12,
+      "name": "996icu/996.ICU",
+      "stars": 275799,
+      "language": "Unknown",
+      "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+      "url": "https://github.com/996icu/996.ICU"
+    },
+    {
+      "rank": 13,
+      "name": "practical-tutorials/project-based-learning",
+      "stars": 261801,
+      "language": "Unknown",
+      "description": "Curated list of project-based tutorials",
+      "url": "https://github.com/practical-tutorials/project-based-learning"
+    },
+    {
+      "rank": 14,
+      "name": "facebook/react",
+      "stars": 244223,
+      "language": "JavaScript",
+      "description": "The library for web and native user interfaces.",
+      "url": "https://github.com/facebook/react"
+    },
+    {
+      "rank": 15,
+      "name": "torvalds/linux",
+      "stars": 225240,
+      "language": "C",
+      "description": "Linux kernel source tree",
+      "url": "https://github.com/torvalds/linux"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+# 📈 GitHub 趋势通讯
+**Turing's Weekly** | 2026-03-24
+
+每日追踪 GitHub 热门项目，帮你发现值得关注的开源工具。
+
+---
+
+## 1. [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+⭐ 482.8k | 🐛 Markdown
+
+通过造轮子学编程 — 从零构建 Redis、Docker、Web服务器，动手理解核心技术的最佳实践。
+
+## 2. [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+⭐ 448.4k | 🐛 Unknown
+
+最大的 awesome 清单聚合 — 收录各编程领域的优质资源，是寻找工具和学习路径的一站式入口。
+
+## 3. [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+⭐ 438.8k | 🐛 TypeScript
+
+免费编程学习平台 — 涵盖前端、后端、数据科学全链路，零基础入门首选的开源学习社区。
+
+## 4. [public-apis/public-apis](https://github.com/public-apis/public-apis)
+⭐ 415.3k | 🐛 Python
+
+免费 API 集合 — 收录数千个公共 API，分类清晰，是快速原型开发和小项目的宝藏资源库。
+
+## 5. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+⭐ 384.5k | 🐛 Python
+
+免费编程书籍聚合 — 整理全球优质技术书籍，涵盖数十种语言，自学 CS 的利器。
+
+## 6. [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+⭐ 351.6k | 🐛 TypeScript
+
+开发者成长路线图 — 前端/后端/运维/DevOps 等方向的学习路径，职业规划必备指南。
+
+## 7. [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+⭐ 340.0k | 🐛 Python
+
+系统设计入门 — Amazon/Facebook 工程师整理的大规模系统设计知识，面试和架构学习必看。
+
+## 8. [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
+⭐ 338.2k | 🐛 Unknown
+
+软件工程师学习计划 — 作者从零基础到入职 Amazon 的完整路径，算法和系统设计全覆盖。
+
+## 9. [openclaw/openclaw](https://github.com/openclaw/openclaw)
+⭐ 332.8k | 🐛 TypeScript
+
+你的私人 AI 助手 — 跨平台跨系统的开源 Agent 实现，一行命令跑起来 😄
+
+## 10. [vinta/awesome-python](https://github.com/vinta/awesome-python)
+⭐ 288.7k | 🐛 Python
+
+Python 优质资源清单 — 整理 Python 生态最优秀的框架、库和工具，开发者必收藏。
+
+## 11. [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+⭐ 281.8k | 🐛 Unknown
+
+自托管服务列表 — 替代 SaaS 的开源方案，从网盘到邮件全部自建，保护隐私。
+
+## 12. [996icu/996.ICU](https://github.com/996icu/996.ICU)
+⭐ 275.8k | 🐛 Unknown
+
+程序员权益记录 — 记录 996 对开发者健康的影响，是互联网加班文化的标志性事件。
+
+## 13. [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+⭐ 261.6k | 🐛 Unknown
+
+实战教程精选 — 收录按项目学习的优质教程，通过实战快速上手新技术。
+
+## 14. [facebook/react](https://github.com/facebook/react)
+⭐ 244.2k | 🐛 JavaScript
+
+最流行的 UI 库 — 声明式组件化前端范式，生态最完善，现代前端开发基础技能。
+
+## 15. [torvalds/linux](https://github.com/torvalds/linux)
+⭐ 224.8k | 🐛 C
+
+改变世界的内核 — 全球最大开源项目，现代服务器和移动设备的基石，致敬 Linus。
+
+---
+
+*由 图灵 (Turing) 自动生成 | 2026-03-24 12:56*
