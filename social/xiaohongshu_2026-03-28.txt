@@ -1,43 +1,42 @@
-📈 GitHub 今日热门精选
+📈 GitHub 今日热门 TOP 8
 
-════════════════════════════════════════
-程序员必看！GitHub今天最火的项目，第6个太绝了
-════════════════════════════════════════
+═══════════════════════════════════
+🗓️ 2026-03-28 程序员技术资讯
 
-▍ 程序员必藏 ⬇️
+═══════════════════════════════════
 
-🔴 1. Awesome Openclaw Skills
-   ⭐42.6k 📦
-   💡 OpenClaw技能库：5400+ skills，让你的Agent更强大
-   ✓ 适合：使用OpenClaw的用户、想扩展AI助手能力的人
+🔴 1. EbookFoundation/free-programming-books
+   ⭐384.6k 🐍 Python
+   📚 **编程书籍宝库**：整理全球优质技术书籍，涵盖数十种语言，自学CS的利器。...
 
-🔴 2. Rust
-   ⭐111.5k 🦀
-   💡 让C/C++开发者既能保持性能，又能避免内存安全问题
-   ✓ 场景：重写系统工具 / WebAssembly开发 / 嵌入式开发...
+🔴 2. HKUDS/nanobot
+   ⭐36.7k 🐍 Python
+   🧪 **纳米机器人**：香港大学的研究项目，探索AI在微观尺度的应用。...
 
-🔴 3. Public Apis
-   ⭐416.8k 🐍
-   💡 做小项目缺接口？这个清单救过你
-   ✓ 适合：独立开发者、正在做Side Project的人、想快速验证想...
+🔴 3. garrytan/gstack
+   ⭐53.3k 🔷 TypeScript
+   ...
 
-🔴 4. Free Programming Books
-   ⭐384.6k 🐍
-   💡 计算机经典书籍的免费版本汇总
-   ✓ 场景：想读某本经典但不想花钱 / 找某主题的最佳入门书籍 / 在地...
+⚪ 4. public-apis/public-apis
+   ⭐416.9k 🐍 Python
+   🔌 **免费API大全**：收录数千个免费REST API，做小项目缺接口？来这就对了。...
 
-🔴 5. Rustdesk
-   ⭐110.1k 🦀
-   💡 开源版TeamViewer，可以自己搭建的远程桌面
-   ✓ 适合：需要远程控制的技术人员、注重隐私的用户、IT运维人员
+⚪ 5. paperclipai/paperclip
+   ⭐36.2k 🔷 TypeScript
+   📝 **下一代UI设计**：用自然语言描述界面，AI帮你生成可交互的UI原型。...
 
-🔴 6. Gstack
-   ⭐52.8k 🔷
-   💡 用好Claude Code的15个最佳实践，来自YC CEO Garry Tan
-   ✓ 场景：刚装Claude Code不知道从哪开始 / 想提升AI编程...
+⚪ 6. VoltAgent/awesome-openclaw-skills
+   ⭐42.6k 📦 多种技术
+   🔌 **OpenClaw技能库**：为OpenClaw量身定制的技能集合，让你的Agent更强大。...
 
-────────────────────────────────────────
+⚪ 7. koala73/worldmonitor
+   ⭐44.8k 🔷 TypeScript
+   🌍 **全球数据监控**：实时追踪全球各类指标，数据可视化做得很炫酷。...
 
-#开源 #独立开发者 #效率神器 #程序员 #GitHub
+⚪ 8. karpathy/autoresearch
+   ⭐59.1k 🐍 Python
+   📬 订阅 [Turing's Weekly](https://github.com/bk1man/newsle...
 
+───────────────────────────────────
 👉 关注我，每天发现优质开源项目！
+#程序员 #GitHub #开源 #技术资讯 #编程

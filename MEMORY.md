@@ -21,3 +21,22 @@
     "image_list": [{"image_media_id": "..."}]
   }
 }
+
+## 2026-03-28 日常记录
+
+### 今日完成
+- [x] 修复语言 Unknown → Markdown（github_trending_real.py 加了 languages_url 回退逻辑）
+- [x] 修复微信公众号 AppSecret（40125 → 正常token获取）
+- [x] 推送 2026-03-28 公众号草稿（media_id: mIDVEOmq2z1Yy5W9e1RU0r9LoyKRzAtjkfaP5QIP5q1WmIcRdkganc-It6xRsAmZ）
+- [x] 准备明天（2026-03-29）小红书内容：social/xiaohongshu_2026-03-29.txt + newsletter_image_2026-03-29.png
+- [x] 发现 daily.sh 多次触发（9:00/14:35/15:09），建议优化为每日一次
+
+### Newsletter 版本说明
+- V1/V2: 15项目，简版描述
+- V3: 8项目，深度中文解读（今日主力版本）
+- V4: 带"今日主题/编辑说/本期速览"的新版格式
+
+### 待解决
+- [ ] daily.sh 每日多次触发问题（cron配置问题？）
+- [ ] 微信公众号草稿推送后的群发（需确认发送时间）
+- [ ] B2B AI客服/建站服务案例和报价（需 Sir 提供内容）

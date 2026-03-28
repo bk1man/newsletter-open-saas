@@ -1,11 +1,11 @@
 {
   "language": "all",
-  "fetched_at": "2026-03-28T14:35:27.295923",
+  "fetched_at": "2026-03-28T21:56:45.339313",
   "repos": [
     {
       "rank": 1,
       "name": "codecrafters-io/build-your-own-x",
-      "stars": 483969,
+      "stars": 484025,
       "language": "Markdown",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "url": "https://github.com/codecrafters-io/build-your-own-x"
@@ -13,7 +13,7 @@
     {
       "rank": 2,
       "name": "sindresorhus/awesome",
-      "stars": 449477,
+      "stars": 449557,
       "language": "Markdown",
       "description": "😎 Awesome lists about all kinds of interesting topics",
       "url": "https://github.com/sindresorhus/awesome"
@@ -21,7 +21,7 @@
     {
       "rank": 3,
       "name": "freeCodeCamp/freeCodeCamp",
-      "stars": 438893,
+      "stars": 438928,
       "language": "TypeScript",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp"
@@ -29,7 +29,7 @@
     {
       "rank": 4,
       "name": "public-apis/public-apis",
-      "stars": 416821,
+      "stars": 416929,
       "language": "Python",
       "description": "A collective list of free APIs",
       "url": "https://github.com/public-apis/public-apis"
@@ -37,7 +37,7 @@
     {
       "rank": 5,
       "name": "EbookFoundation/free-programming-books",
-      "stars": 384642,
+      "stars": 384649,
       "language": "Python",
       "description": ":books: Freely available programming books",
       "url": "https://github.com/EbookFoundation/free-programming-books"
@@ -45,7 +45,7 @@
     {
       "rank": 6,
       "name": "kamranahmedse/developer-roadmap",
-      "stars": 351755,
+      "stars": 351776,
       "language": "TypeScript",
       "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
       "url": "https://github.com/kamranahmedse/developer-roadmap"
@@ -53,7 +53,7 @@
     {
       "rank": 7,
       "name": "donnemartin/system-design-primer",
-      "stars": 340412,
+      "stars": 340450,
       "language": "Python",
       "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
       "url": "https://github.com/donnemartin/system-design-primer"
@@ -61,7 +61,7 @@
     {
       "rank": 8,
       "name": "openclaw/openclaw",
-      "stars": 338825,
+      "stars": 339154,
       "language": "TypeScript",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
       "url": "https://github.com/openclaw/openclaw"
@@ -69,7 +69,7 @@
     {
       "rank": 9,
       "name": "jwasham/coding-interview-university",
-      "stars": 338281,
+      "stars": 338283,
       "language": "Markdown",
       "description": "A complete computer science study plan to become a software engineer.",
       "url": "https://github.com/jwasham/coding-interview-university"
@@ -77,7 +77,7 @@
     {
       "rank": 10,
       "name": "vinta/awesome-python",
-      "stars": 289342,
+      "stars": 289393,
       "language": "Python",
       "description": "An opinionated list of Python frameworks, libraries, tools, and resources.",
       "url": "https://github.com/vinta/awesome-python"
@@ -85,7 +85,7 @@
     {
       "rank": 11,
       "name": "awesome-selfhosted/awesome-selfhosted",
-      "stars": 282473,
+      "stars": 282527,
       "language": "Markdown",
       "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
       "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
@@ -93,7 +93,7 @@
     {
       "rank": 12,
       "name": "996icu/996.ICU",
-      "stars": 275802,
+      "stars": 275799,
       "language": "Markdown",
       "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
       "url": "https://github.com/996icu/996.ICU"
@@ -101,7 +101,7 @@
     {
       "rank": 13,
       "name": "practical-tutorials/project-based-learning",
-      "stars": 261873,
+      "stars": 261885,
       "language": "Markdown",
       "description": "Curated list of project-based tutorials",
       "url": "https://github.com/practical-tutorials/project-based-learning"
@@ -109,7 +109,7 @@
     {
       "rank": 14,
       "name": "facebook/react",
-      "stars": 244229,
+      "stars": 244239,
       "language": "JavaScript",
       "description": "The library for web and native user interfaces.",
       "url": "https://github.com/facebook/react"
@@ -117,7 +117,7 @@
     {
       "rank": 15,
       "name": "torvalds/linux",
-      "stars": 225381,
+      "stars": 225424,
       "language": "C",
       "description": "Linux kernel source tree",
       "url": "https://github.com/torvalds/linux"

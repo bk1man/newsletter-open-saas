@@ -4,80 +4,45 @@
 
 今日精选热门 GitHub 项目详细解读。
 
-1. codecrafters-io/build-your-own-x
-   ⭐483.9k | 🐛Markdown
-
-   通过造轮子学编程 — 从零构建 Redis、Docker、Web服务器，动手理解核心技术的最佳实践。
-
-2. sindresorhus/awesome
-   ⭐449.4k | 🐛Markdown
-
-   最大的 awesome 清单聚合 — 收录各编程领域的优质资源，是寻找工具和学习路径的一站式入口。
-
-3. freeCodeCamp/freeCodeCamp
-   ⭐438.9k | 🐛TypeScript
-
-   免费编程学习平台 — 涵盖前端、后端、数据科学全链路，零基础入门首选的开源学习社区。
-
-4. public-apis/public-apis
-   ⭐416.8k | 🐛Python
-
-   免费 API 集合 — 收录数千个公共 API，分类清晰，是快速原型开发和小项目的宝藏资源库。
-
-5. EbookFoundation/free-programming-books
+1. EbookFoundation/free-programming-books
    ⭐384.6k | 🐛Python
 
-   免费编程书籍聚合 — 整理全球优质技术书籍，涵盖数十种语言，自学 CS 的利器。
+   📚 **编程书籍宝库**：整理全球优质技术书籍，涵盖数十种语言，自学CS的利器。
 
-6. kamranahmedse/developer-roadmap
-   ⭐351.7k | 🐛TypeScript
+2. HKUDS/nanobot
+   ⭐36.7k | 🐛Python
 
-   开发者成长路线图 — 前端/后端/运维/DevOps 等方向的学习路径，职业规划必备指南。
+   🧪 **纳米机器人**：香港大学的研究项目，探索AI在微观尺度的应用。
 
-7. donnemartin/system-design-primer
-   ⭐340.4k | 🐛Python
+3. garrytan/gstack
+   ⭐53.3k | 🐛TypeScript
 
-   系统设计入门 — Amazon/Facebook 工程师整理的大规模系统设计知识，面试和架构学习必看。
+   
 
-8. openclaw/openclaw
-   ⭐338.6k | 🐛TypeScript
+4. public-apis/public-apis
+   ⭐416.9k | 🐛Python
 
-   你的私人 AI 助手 — 跨平台跨系统的开源 Agent 实现，一行命令跑起来 😄
+   🔌 **免费API大全**：收录数千个免费REST API，做小项目缺接口？来这就对了。
 
-9. jwasham/coding-interview-university
-   ⭐338.3k | 🐛Markdown
+5. paperclipai/paperclip
+   ⭐36.2k | 🐛TypeScript
 
-   软件工程师学习计划 — 作者从零基础到入职 Amazon 的完整路径，算法和系统设计全覆盖。
+   📝 **下一代UI设计**：用自然语言描述界面，AI帮你生成可交互的UI原型。
 
-10. vinta/awesome-python
-   ⭐289.3k | 🐛Python
+6. VoltAgent/awesome-openclaw-skills
+   ⭐42.6k | 🐛多种技术
 
-   Python 优质资源清单 — 整理 Python 生态最优秀的框架、库和工具，开发者必收藏。
+   🔌 **OpenClaw技能库**：为OpenClaw量身定制的技能集合，让你的Agent更强大。
 
-11. awesome-selfhosted/awesome-selfhosted
-   ⭐282.4k | 🐛Markdown
+7. koala73/worldmonitor
+   ⭐44.8k | 🐛TypeScript
 
-   自托管服务列表 — 替代 SaaS 的开源方案，从网盘到邮件全部自建，保护隐私。
+   🌍 **全球数据监控**：实时追踪全球各类指标，数据可视化做得很炫酷。
 
-12. 996icu/996.ICU
-   ⭐275.8k | 🐛Markdown
+8. karpathy/autoresearch
+   ⭐59.1k | 🐛Python
 
-   程序员权益记录 — 记录 996 对开发者健康的影响，是互联网加班文化的标志性事件。
-
-13. practical-tutorials/project-based-learning
-   ⭐261.9k | 🐛Markdown
-
-   实战教程精选 — 收录按项目学习的优质教程，通过实战快速上手新技术。
-
-14. facebook/react
-   ⭐244.2k | 🐛JavaScript
-
-   最流行的 UI 库 — 声明式组件化前端范式，生态最完善，现代前端开发基础技能。
-
-15. torvalds/linux
-   ⭐225.4k | 🐛C
-
-   改变世界的内核 — 全球最大开源项目，现代服务器和移动设备的基石，致敬 Linus。
+   📬 订阅 [Turing's Weekly](https://github.com/bk1man/newsletter-open-saas) | 🐙 投稿 [GitHub](https://github.com/bk1man/newsletter-open-saas)
 
 ───────────────────────────────────
 由 图灵 自动生成 | 2026-03-28

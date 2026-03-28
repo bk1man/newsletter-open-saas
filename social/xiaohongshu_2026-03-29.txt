@@ -1,0 +1,34 @@
+📈 GitHub 今日热门精选
+
+═══════════════════════════════════
+程序员必看！GitHub今天最火的项目
+═══════════════════════════════════
+
+🔴 1. VoltAgent/awesome-openclaw-skills
+   ⭐42.6k 📦
+   💡 OpenClaw技能库！5400+ skills，让你的AI助手无所不能
+
+🔴 2. rust-lang/rust
+   ⭐111.5k 🦀
+   💡 连续多年最受喜爱语言！性能+安全兼顾，C/C++接班人
+
+🔴 3. public-apis/public-apis
+   ⭐416.8k 🐍
+   💡 5000+免费API合集，做小项目必备神器
+
+🔴 4. EbookFoundation/free-programming-books
+   ⭐384.6k 🐍
+   💡 免费编程书籍大全，自学CS必收藏
+
+🔴 5. rustdesk/rustdesk
+   ⭐110.1k 🦀
+   💡 开源远程桌面TeamViewer，自己搭建保护隐私
+
+🔴 6. garrytan/gstack
+   ⭐52.8k 🔷
+   💡 YC CEO 推荐！用好Claude Code的15个最佳实践
+
+───────────────────────────────────
+#编程学习 #AI工具 #开源 #GitHub
+
+👉 关注我，每天发现优质开源项目！
