@@ -309,3 +309,75 @@ Thumb media_id: mIDVEOmq2z1Yy5W9e1RU0lizrtflpEc4gfwFx4o-cEyQEN9yQ9iYU2S4MiptRYE-
 HTML length: 10679
 ✅ 草稿创建成功! media_id: mIDVEOmq2z1Yy5W9e1RU0ngvvCOa_nyNHD9X6rYZ_ViglYAfI1vNTzpkh06ODfN0
 [Sat Mar 28 21:56:52 CST 2026] Done
+[Sun Mar 29 09:00:02 AM CST 2026] Generating newsletter...
+[2026-03-29 09:00:02] Fetching GitHub trending...
+[2026-03-29 09:00:02] Fetching GitHub trending...
+[2026-03-29 09:00:06] Generating newsletter...
+[2026-03-29 09:00:06] Generating newsletter...
+📡 获取今日数据...
+  获取到 8 个新热门项目
+  补充 3 个 TypeScript 项目
+✅ V3 newsletter_2026-03-29.md 生成完成 | 8 个项目 | 主题: 🚀 新兴项目
+[2026-03-29 09:00:08] Newsletter generated successfully
+[2026-03-29 09:00:08] Newsletter generated successfully
+[Sun Mar 29 09:00:08 AM CST 2026] Generating social content...
+小红书 ✓
+公众号 ✓
+
+📈 GitHub 今日热门 TOP 8
+
+═══════════════════════════════════
+🗓️ 2026-03-29 程序员技术资讯
+
+═══════════════════════════════════
+
+🔴 1. karpathy/autoresearch
+   ⭐59.6k 🐍 Python
+   ...
+
+🔴 2. openclaw/openclaw
+   ⭐339.5k 🔷 TypeScript
+   🤖 **你的私人AI助手**：不是玩具，是一个真正能跑任务的Agent。跨平台跨系统，想在哪里跑就在哪里跑。...
+
+🔴 3. affaan-m/everything-claude-code
+   ⭐114.7k 🟨 JavaScript
+   ...
+
+⚪ 4. VoltAgent/awesome-openclaw-skills
+   ⭐42.7k 📦 多种技术
+   🔌 **OpenClaw技能库**：为OpenClaw量身定制的技能集合，让你的Agent更强大。...
+
+⚪ 5. freeCodeCamp/freeCodeCamp
+   ⭐438.9k 🔷 TypeScript
+   🎓 **零基础入门天堂**：免费、开源、社区驱动。前端、后端、数据科学...一条路走到黑。...
+
+⚪ 6. HKUDS/nanobot
+   ⭐36.8k 🐍 Python
+   🧪 **纳米机器人**：香港大学的研究项目，探索AI在微观尺度的应用。...
+
+⚪ 7. zeroclaw-labs/zeroclaw
+   ⭐29.1k 🦀 Rust
+   ⚡ **Rust新贵**：用Rust写的高性能云原生工具，值得关注。...
+
+⚪ 8. garrytan/gstack
+   ⭐54.1k 🔷 TypeScript
+   📬 订阅 [Turing's Weekly](https://github.com/bk1man/newsle...
+
+───────────────────────────────────
+👉 关注我，每天发现优质开源项目！
+#程序员 #GitHub #开源 #技术资讯 #编程
+[Sun Mar 29 09:00:08 AM CST 2026] Generating cover image...
+✅ v6头条封面: /root/newsletter/social/wechat_headline_2026-03-29.png
+[Sun Mar 29 09:00:08 AM CST 2026] Pushing to Feishu...
+[2026-03-29 09:00:09.440568] ✅ Feishu push success to ou_d0142c3276f28f0bdea6f604fac0c1e1
+[Sun Mar 29 09:00:09 AM CST 2026] Sending image to Feishu...
+[info]: [ 'client ready' ]
+Image not found: /root/newsletter/social/post_2026-03-29.png
+[Sun Mar 29 09:00:10 AM CST 2026] Publishing to WeChat draft...
+[2026-03-29 09:00:10.355977] Getting token...
+[2026-03-29 09:00:10.789369] Uploading cover...
+Thumb media_id: mIDVEOmq2z1Yy5W9e1RU0v9CBC879GKgFnC1wF3CkgeKiz1BFl60t7kkXZ3CcEQf
+[2026-03-29 09:00:12.049149] Creating draft...
+HTML length: 10649
+✅ 草稿创建成功! media_id: mIDVEOmq2z1Yy5W9e1RU0obfGuJeFRpMzhHO37x9KWzf7tkQnORoGiV89bngl4XS
+[Sun Mar 29 09:00:14 AM CST 2026] Done

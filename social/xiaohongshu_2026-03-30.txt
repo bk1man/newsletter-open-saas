@@ -1,0 +1,34 @@
+📈 GitHub 今日热门精选
+
+═══════════════════════════════════
+程序员必看！GitHub今天最火的项目
+═══════════════════════════════════
+
+🔴 1. karpathy/autoresearch
+   ⭐59.6k 🐍
+   💡 Karpathy 自动驾驶AI新范式！计算机视觉最前沿
+
+🔴 2. openclaw/openclaw
+   ⭐339.5k 🔷
+   💡 你的私人AI助手！真正能跑任务的Agent
+
+🔴 3. affaan-m/everything-claude-code
+   ⭐114.7k 📜
+   💡 Claude Code 正确用法！不是调API，是真正AI帮你写代码
+
+🔴 4. VoltAgent/awesome-openclaw-skills
+   ⭐42.7k 📦
+   💡 OpenClaw技能库！5400+ skills，让你的AI助手无所不能
+
+🔴 5. freeCodeCamp/freeCodeCamp
+   ⭐438.9k 🔷
+   💡 免费编程学习平台，零基础入门首选
+
+🔴 6. HKUDS/nanobot
+   ⭐36.8k 🐍
+   💡 港大纳米机器人研究！AI在微观尺度的突破
+
+───────────────────────────────────
+#AI工具 #开源 #GitHub #效率神器
+
+👉 关注我，每天发现优质开源项目！

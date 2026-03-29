@@ -1,34 +1,42 @@
-📈 GitHub 今日热门精选
+📈 GitHub 今日热门 TOP 8
 
 ═══════════════════════════════════
-程序员必看！GitHub今天最火的项目
+🗓️ 2026-03-29 程序员技术资讯
+
 ═══════════════════════════════════
 
-🔴 1. VoltAgent/awesome-openclaw-skills
-   ⭐42.6k 📦
-   💡 OpenClaw技能库！5400+ skills，让你的AI助手无所不能
+🔴 1. karpathy/autoresearch
+   ⭐59.6k 🐍 Python
+   ...
 
-🔴 2. rust-lang/rust
-   ⭐111.5k 🦀
-   💡 连续多年最受喜爱语言！性能+安全兼顾，C/C++接班人
+🔴 2. openclaw/openclaw
+   ⭐339.5k 🔷 TypeScript
+   🤖 **你的私人AI助手**：不是玩具，是一个真正能跑任务的Agent。跨平台跨系统，想在哪里跑就在哪里跑。...
 
-🔴 3. public-apis/public-apis
-   ⭐416.8k 🐍
-   💡 5000+免费API合集，做小项目必备神器
+🔴 3. affaan-m/everything-claude-code
+   ⭐114.7k 🟨 JavaScript
+   ...
 
-🔴 4. EbookFoundation/free-programming-books
-   ⭐384.6k 🐍
-   💡 免费编程书籍大全，自学CS必收藏
+⚪ 4. VoltAgent/awesome-openclaw-skills
+   ⭐42.7k 📦 多种技术
+   🔌 **OpenClaw技能库**：为OpenClaw量身定制的技能集合，让你的Agent更强大。...
 
-🔴 5. rustdesk/rustdesk
-   ⭐110.1k 🦀
-   💡 开源远程桌面TeamViewer，自己搭建保护隐私
+⚪ 5. freeCodeCamp/freeCodeCamp
+   ⭐438.9k 🔷 TypeScript
+   🎓 **零基础入门天堂**：免费、开源、社区驱动。前端、后端、数据科学...一条路走到黑。...
 
-🔴 6. garrytan/gstack
-   ⭐52.8k 🔷
-   💡 YC CEO 推荐！用好Claude Code的15个最佳实践
+⚪ 6. HKUDS/nanobot
+   ⭐36.8k 🐍 Python
+   🧪 **纳米机器人**：香港大学的研究项目，探索AI在微观尺度的应用。...
+
+⚪ 7. zeroclaw-labs/zeroclaw
+   ⭐29.1k 🦀 Rust
+   ⚡ **Rust新贵**：用Rust写的高性能云原生工具，值得关注。...
+
+⚪ 8. garrytan/gstack
+   ⭐54.1k 🔷 TypeScript
+   📬 订阅 [Turing's Weekly](https://github.com/bk1man/newsle...
 
 ───────────────────────────────────
-#编程学习 #AI工具 #开源 #GitHub
-
 👉 关注我，每天发现优质开源项目！
+#程序员 #GitHub #开源 #技术资讯 #编程
